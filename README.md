@@ -1,1 +1,1 @@
-# capes for animated capes forge mod
+capes for animated capes forge mod
