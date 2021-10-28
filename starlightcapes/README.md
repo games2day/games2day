@@ -1,1 +1,1 @@
-# https://discord.gg/aawAb5TNfG
+# http://discord.gg/aawAb5TNfG
