@@ -1,2 +1,2 @@
 # Stalightcapes discord invite
-https://discord.gg/aawAb5TNfG
+[discord invite](https://discord.gg/aawAb5TNfG)
