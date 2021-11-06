@@ -1,1 +1,2 @@
-# http://discord.gg/aawAb5TNfG
+# Stalight discord invite
+https://discord.gg/aawAb5TNfG
