@@ -1,2 +1,2 @@
 # Animatedcapes discord invite
-https://discord.gg/DW8tDFB6xc
+[discord invite](https://discord.gg/DW8tDFB6xc)
