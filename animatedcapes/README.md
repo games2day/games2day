@@ -1,1 +1,2 @@
-# http://discord.gg/DW8tDFB6xc
+# Animatedcapes discord invite
+https://discord.gg/DW8tDFB6xc
