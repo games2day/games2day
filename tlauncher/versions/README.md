@@ -5,9 +5,9 @@ made by games2day
 
 | [mod 1.15.2](https://games2day.tk/tlauncher/versions/tlskincape_1.15.2.jar)
 
-| [mod 1.14.4](https://games2day.tk/tlauncher/versions/tlskincape_1.14.jar)
+| [mod 1.14.4](https://games2day.tk/tlauncher/versions/tlskincape_1.14.4.jar)
 
-| [mod 1.13.2](https://games2day.tk/tlauncher/versions/tlskincape_1.13.jar)
+| [mod 1.13.2](https://games2day.tk/tlauncher/versions/tlskincape_1.13.2.jar)
 
 | [mod 1.12.2](https://games2day.tk/tlauncher/versions/tlskincape_1.12.2.jar)
 
