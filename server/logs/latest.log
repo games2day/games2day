@@ -1,0 +1,67 @@
+[14:58:25] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[14:58:25] [Server thread/INFO]: Loading properties
+[14:58:25] [Server thread/INFO]: Default game type: SURVIVAL
+[14:58:25] [Server thread/INFO]: Generating keypair
+[14:58:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:58:26] [Server thread/INFO]: Using default channel type
+[14:58:26] [Server thread/WARN]: Failed to load user banlist: 
+java.io.FileNotFoundException: banned-players.json (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[server.jar:?]
+	at mb.g(SourceFile:124) ~[server.jar:?]
+	at kn.z(SourceFile:99) [server.jar:?]
+	at kn.<init>(SourceFile:25) [server.jar:?]
+	at ko.i(SourceFile:172) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:421) [server.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+[14:58:26] [Server thread/WARN]: Failed to load ip banlist: 
+java.io.FileNotFoundException: banned-ips.json (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[server.jar:?]
+	at mb.g(SourceFile:124) ~[server.jar:?]
+	at kn.y(SourceFile:91) [server.jar:?]
+	at kn.<init>(SourceFile:27) [server.jar:?]
+	at ko.i(SourceFile:172) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:421) [server.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+[14:58:26] [Server thread/WARN]: Failed to load operators list: 
+java.io.FileNotFoundException: ops.json (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[server.jar:?]
+	at mb.g(SourceFile:124) ~[server.jar:?]
+	at kn.A(SourceFile:107) [server.jar:?]
+	at kn.<init>(SourceFile:29) [server.jar:?]
+	at ko.i(SourceFile:172) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:421) [server.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+[14:58:26] [Server thread/WARN]: Failed to load white-list: 
+java.io.FileNotFoundException: whitelist.json (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[server.jar:?]
+	at mb.g(SourceFile:124) ~[server.jar:?]
+	at kn.C(SourceFile:123) [server.jar:?]
+	at kn.<init>(SourceFile:30) [server.jar:?]
+	at ko.i(SourceFile:172) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:421) [server.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+[14:58:26] [Server thread/INFO]: Preparing level "world"
+[14:58:26] [Server thread/INFO]: Preparing start region for level 0
+[14:58:27] [Server thread/INFO]: Preparing spawn area: 9%
+[14:58:28] [Server thread/INFO]: Preparing spawn area: 25%
+[14:58:29] [Server thread/INFO]: Preparing spawn area: 45%
+[14:58:30] [Server thread/INFO]: Preparing spawn area: 65%
+[14:58:31] [Server thread/INFO]: Preparing spawn area: 83%
+[14:58:32] [Server thread/INFO]: Done (6.033s)! For help, type "help" or "?"
+[14:59:28] [User Authenticator #1/INFO]: UUID of player games2day is 392b0f1d-2bb1-45d8-b526-e5e11d2fb857
+[14:59:28] [Server thread/INFO]: games2day[/127.0.0.1:65199] logged in with entity id 2197 at (108.5, 59.0, 214.5)
+[14:59:28] [Server thread/INFO]: games2day joined the game
+[14:59:39] [Server thread/INFO]: games2day lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:59:39] [Server thread/INFO]: games2day left the game
